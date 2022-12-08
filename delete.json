@@ -1,0 +1,10 @@
+{"partitions":                        
+ [
+   {
+       "topic": "connect-test-2",
+       "partition": 0,
+       "offset": 4
+   }
+ ],                      
+"version":1                          
+}
